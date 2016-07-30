@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyOwnIcon</string>
+
+    <string name="theme_name">MyOwnIcon</string>
+    <string name="theme_author">Robert</string>
+    <string name="theme_email">Robert@Gmail.com</string>
+
+    <bool name="config_iconpack">true</bool>
+    <bool name="config_apexskin">false</bool>
+    <string name="theme_feature">feature</string>
+</resources>
